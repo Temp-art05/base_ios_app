@@ -1,0 +1,15 @@
+"common_retry" = "Retry";
+"common_continue" = "Continue";
+"common_skip" = "Skip";
+"common_get_started" = "Get started";
+"policy_title" = "Welcome";
+"policy_message" = "By continuing you agree to our Terms of Use and Privacy Policy.";
+"policy_terms" = "Terms of Use";
+"policy_privacy" = "Privacy Policy";
+"policy_agree" = "Agree and continue";
+"onboarding_1_title" = "Welcome to Base App";
+"onboarding_1_message" = "A clean starting point for your next iOS app.";
+"onboarding_2_title" = "Built to scale";
+"onboarding_2_message" = "Modular packages, Clean Architecture and MVVM.";
+"onboarding_3_title" = "Ready to ship";
+"onboarding_3_message" = "Four build configurations, analytics and tests included.";

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APP_ENV</key>
+	<string>$(APP_ENV)</string>
+	<key>ASSET_BASE_URL</key>
+	<string>$(ASSET_BASE_URL)</string>
+	<key>ApiBundleId</key>
+	<string>$(API_BUNDLE_ID)</string>
+	<key>ApiKey</key>
+	<string>$(API_KEY)</string>
+	<key>BASE_URL</key>
+	<string>$(BASE_URL)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

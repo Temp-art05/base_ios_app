@@ -1,0 +1,17 @@
+// ProdDebug  (prod + Debug)
+// Mỗi file độc lập, không include file khác. Thêm biến mới: khai ở CẢ 4 file, map vào Info.plist,
+// rồi thêm getter ở Core/Environment.swift. KHÔNG commit key thật của prod — dùng placeholder
+// hoặc để CI ghi đè (xcodebuild API_KEY=...).
+
+APP_ENV = prod
+APP_BUNDLE_ID = com.base.app
+APP_DISPLAY_NAME = Base App
+
+// MARK: - API
+BASE_URL = https:/$()/dummyjson.com
+ASSET_BASE_URL = https:/$()/dummyjson.com
+API_KEY = your-prod-api-key
+API_BUNDLE_ID = com.base.app
+
+// MARK: - Build flags
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG

@@ -1,0 +1,15 @@
+"common_retry" = "Thử lại";
+"common_continue" = "Tiếp tục";
+"common_skip" = "Bỏ qua";
+"common_get_started" = "Bắt đầu";
+"policy_title" = "Chào mừng";
+"policy_message" = "Khi tiếp tục, bạn đồng ý với Điều khoản sử dụng và Chính sách quyền riêng tư.";
+"policy_terms" = "Điều khoản sử dụng";
+"policy_privacy" = "Chính sách quyền riêng tư";
+"policy_agree" = "Đồng ý và tiếp tục";
+"onboarding_1_title" = "Chào mừng đến Base App";
+"onboarding_1_message" = "Điểm khởi đầu gọn gàng cho app iOS tiếp theo.";
+"onboarding_2_title" = "Dễ mở rộng";
+"onboarding_2_message" = "Package module, Clean Architecture và MVVM.";
+"onboarding_3_title" = "Sẵn sàng phát hành";
+"onboarding_3_message" = "Có sẵn 4 build configuration, analytics và test.";

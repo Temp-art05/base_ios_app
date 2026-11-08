@@ -1,0 +1,39 @@
+## Plans nội bộ (không commit)
+docs/plans/
+
+## Firebase (muốn commit plist thì bỏ dòng dưới)
+GoogleService-Info.plist
+
+## Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+build/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+
+## SPM
+.build/
+Packages/*/.build/
+.swiftpm/
+# Local per-package resolved files là nhiễu.
+Packages/*/Package.resolved
+# KHÔNG ignore Package.resolved của APP (Xcode Cloud bắt buộc):
+# BaseApp.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Claude Code local
+.claude/settings.local.json
+**/xcshareddata/swiftpm/configuration/
